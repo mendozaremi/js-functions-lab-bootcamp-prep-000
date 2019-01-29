@@ -4,4 +4,5 @@ function happyHolidays(string) {
 }
 function happyHolidaysTo(name) {
   return ("Happy holidays")
+  console.log ("Happy holidays")=== "Happy Holidays, name"
 }
